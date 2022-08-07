@@ -1,0 +1,12 @@
+.container{
+    margin: .625rem 0;
+}
+
+.input{
+    width: 100%;
+    padding: .625rem;
+    box-sizing: border-box;
+    font-size: 1.125rem;
+    border: 0;
+    border-radius: .4375rem;
+}
